@@ -1,6 +1,6 @@
 # Oladoye-Mayowa-Task-2
 Decodelabs Intership
-# 📊 Retail Sales Performance Analysis (Task 1)
+# 📊 Retail Sales Performance Analysis (Task 2)
 
 ## 📌 Project Overview
 This project focuses on the end-to-end analysis of a retail dataset containing 1,200 unique orders for **DecodeLabs Task 1**. The goal was to clean the raw data, perform descriptive statistical analysis, and use pivot tables to uncover key sales, marketing, and operational trends.
