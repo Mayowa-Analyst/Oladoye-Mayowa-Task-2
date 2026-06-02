@@ -45,3 +45,11 @@ Using Excel's Data Analysis Toolpak, a summary was generated across the 1,200 or
 
 ## 🛠️ Tools Used
 * **Microsoft Excel:** Data Cleaning, Descriptive Statistics, Pivot Tables, and Conditional Formatting.
+
+  ### 📈 Descriptive Statistics Dashboard
+![Descriptive Statistics](Descriptive%20Advanced%20.PNG)
+
+### 🔍 Metric Insights & Pivot Tables
+![Metric Insights](Metric%20insights%20.PNG)
+
+  
